@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: rgb(5, 9, 40);
+}
+.home {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+    text-align: center;
+}
+nav {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+    text-align: center;
+    font-size: larger;    
+    color: aliceblue;
+}
+.navigateur a {
+    margin: 0px 70px 0px 0px ;
+    color: aliceblue;
+}
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #89C2D1;
+    font-size: large;
+}
+.cursus {
+    text-align: center;
+    font-size: larger;
+    color: black;
+}
+.cursus a {
+    margin: 0px 50px 0px 50px;
+}
+.tem {
+    text-align: center;
+    font-size: large;
+}
+footer {
+    background-color: snow;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    color: black;;
+}
+.logos {
+    display: block;
+    s
+}
+.Formation  a {
+    align-items: flex-end;
+    color: black;
+}
+.certif {
+    background-color: #F6F6F6;
+    text-align: center;
+    margin-top: 50px;
+}
+.certif p {
+    display: flex;
+    align-content: space-between;
+}
+.pres {
+    background-color: black;
+   text-align: center;
+   color: aliceblue;
+}
+
+.AWS {
+    background-color: black;
+    color: wheat;
+    text-align: center;
+}
+.awsblk {
+    display: flex;
+    align-items: flex-start;
+}
+.icons-descri img {
+    width: 50px; height: 50px;
+}
+.icons-descri {
+    background-color: aliceblue;
+display: flex;
+justify-content: space-between;
+text-align: center;
+}
+.cursus {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.titre1 {
+    text-align: center;
+}
+.métier p {
+    display: flex;
+    justify-content: space-between;
+text-align: justify;
+}
+.cursus1 {
+    display: flexbox;
+    justify-content: space-between;
+}
+.mapadd {
+    margin: 100px;
+    width: 1200px;
+}
+.contact {
+    background-color: whitesmoke;
+    text-align: center;
+}
+.curs {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+}
